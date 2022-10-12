@@ -1,7 +1,7 @@
 {
-  "name": "HydraOfficialBot",
+  "name": "Discord-Bot",
   "version": "1.0.0",
-  "description": "Bot ufficiale della Community Hydra",
+  "description": "Discord Bot",
   "main": "bot.js",
   "author": "Deltwin",
   "license": "ISC",
