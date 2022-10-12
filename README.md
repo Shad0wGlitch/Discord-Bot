@@ -11,9 +11,9 @@
 * Open the terminal and run the following commands
 
 ```
-git clone https://github.com/Khanmanan/automod-bot.git
-cd discord-js-bot
-npm install
+git clone https://github.com/Shad0wGlitch/Discord-Bot.git
+cd Discord-Bot
+npm i
 ```
 
 * Wait for all the dependencies to be installed
